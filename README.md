@@ -15,6 +15,6 @@ When one requests a URI, it returns a response.
 
 
 *The data extracted by hitting the target link is directly loaded into a dataframe,as the data which is being extracted is in the same structure of dataframe .*
-*So the data, in a simple iteration the data is appended into an excel file.*
+*So the data, in a simple iteration the data is appended into an excel file , depending on the approch choosed by the user.*
 
 
